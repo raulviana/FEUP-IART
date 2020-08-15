@@ -1,0 +1,6 @@
+https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+
+
+https://github.com/justmarkham/scikit-learn-videos
+
+

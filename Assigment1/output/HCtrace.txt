@@ -1,0 +1,5 @@
+Cycles done: 100 Best solution: 113208
+Cycles done: 200 Best solution: 113587
+Cycles done: 300 Best solution: 113918
+Cycles done: 400 Best solution: 114259
+Cycles done: 500 Best solution: 114597

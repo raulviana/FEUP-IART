@@ -1,0 +1,2 @@
+Generation: 0 Best Individual: 1295
+Generation: 1 Best Individual: 961
