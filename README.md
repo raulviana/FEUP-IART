@@ -21,4 +21,4 @@ The different algorithms with pré-filled parameters values
 ## Assigment 2
 
 In the second assignment, we used a football dataset from [Kaggle](https://www.kaggle.com/hugomathien/soccer) and we tried to fit some models to it to predict the outcomes of its games. 
-We used the jupyter notebook, and printed an [*hml* version](https://github.com/raulviana/FEUP-IART/blob/master/Assigment2/docs/html_notebook_output.pdf) of it. 
+We used the jupyter notebook, and printed an [*html* version](https://github.com/raulviana/FEUP-IART/blob/master/Assigment2/docs/html_notebook_output.pdf) of it. 
